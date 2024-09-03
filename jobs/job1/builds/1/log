@@ -1,0 +1,7 @@
+Started by user [8mha:////4D5NL2Nx/SKQuBQVO0wyCOZVkfYRJMQRHidD1VfXBINfAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/dLi1CL9xKTkFACAYRopvwAAAA==[0mABCD
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/job1
+[job1] $ /bin/sh -xe /tmp/jenkins8577895201992583239.sh
++ echo  Hello Rohith 
+ Hello Rohith 
+Finished: SUCCESS
